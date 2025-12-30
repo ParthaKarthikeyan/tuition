@@ -15,8 +15,8 @@ ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:5173",
     "http://localhost:3001",
-    # GitHub Pages - UPDATE THIS with your username!
-    "https://YOUR_GITHUB_USERNAME.github.io",
+    # GitHub Pages
+    "https://ParthaKarthikeyan.github.io",
 ]
 
 app.add_middleware(

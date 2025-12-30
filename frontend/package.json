@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Tuition Tracker - Math Class Management",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/tuition",
+  "homepage": "https://ParthaKarthikeyan.github.io/tuition",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

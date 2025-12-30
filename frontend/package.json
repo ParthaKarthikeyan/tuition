@@ -1,0 +1,30 @@
+{
+  "name": "tuition-tracker-frontend",
+  "version": "1.0.0",
+  "description": "Tuition Tracker - Math Class Management",
+  "type": "module",
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/tuition",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.11.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "autoprefixer": "^10.4.23",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "vite": "^7.3.0"
+  }
+}
